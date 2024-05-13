@@ -2,7 +2,7 @@
 
 function App() {
   return (
-    <h1>Chai aur react </h1>
+    <h1>Welcome to react</h1>
   );
 }
 
